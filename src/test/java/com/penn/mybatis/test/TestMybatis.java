@@ -1,4 +1,4 @@
-package com.penn.mybatis;
+package com.penn.mybatis.test;
 
 import com.penn.mybatis.dto.User;
 import com.penn.mybatis.mapper.UserMapper;
@@ -14,7 +14,7 @@ import java.io.Reader;
  * @author penn
  * @since 2019/12/11
  */
-public class Test123 {
+public class TestMybatis {
     public static void main(String[] args) {
         Reader reader = null;
         try {
